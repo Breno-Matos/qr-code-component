@@ -64,7 +64,7 @@ Através desse projeto pude aprender e entender melhor as tags semanticas do HTM
 
 ## Autor
 
-- Linkdin - [Breno Henrique](https://www.linkedin.com/in/breno-henrique-matos-17054219b/)
+- Linkedin - [Breno Henrique](https://www.linkedin.com/in/breno-henrique-matos-17054219b/)
 - GitHub - [Breno Matos](https://github.com/Breno-Matos)
 - Frontend Mentor - [@Breno-Matos](https://www.frontendmentor.io/profile/Breno-Matos)
 
